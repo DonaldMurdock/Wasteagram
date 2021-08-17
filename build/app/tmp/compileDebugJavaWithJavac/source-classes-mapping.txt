@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-edu/oregonstate/taylordo/wasteagram/BuildConfig.java
- edu.oregonstate.taylordo.wasteagram.BuildConfig
