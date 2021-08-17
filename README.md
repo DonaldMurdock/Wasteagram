@@ -2,7 +2,7 @@
 Summer 2021, Project for CS492 - Mobile Software Development
 
 ## About
-Wasteagram is like Instagram... for Food Waste. The app is designed for restaurant employees to track wasted food at the end of each day. A user can create a post with a photo of the wasted food and the number of wasted items. The app will report the user's current location and the current date. 
+Wasteagram is like Instagram... for Food Waste. The app is designed for restaurant employees to track wasted food. A user can create a post with a photo of the wasted food and the number of wasted items. The app will report the user's current location and the current date. 
 
 Click [here](https://www.youtube.com/watch?v=zR-tzX3-tKg) to see a video demo. 
 
