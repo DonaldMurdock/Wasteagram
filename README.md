@@ -1,5 +1,5 @@
 ## Wasteagram
-Summer 2021, Project for CS492 - Mobile Software Development\
+Summer 2021, Project for CS492 - Mobile Software Development
 
 ## About
 Wasteagram is like Instagram... for Food Waste. The app is designed for restaurant employees to track wasted food at the end of each day. A user can create a post with a photo of the wasted food and the number of wasted items. The app will report the user's current location and the current date. 
@@ -19,6 +19,7 @@ To run this program type the following at the command prompt:\
 `flutter run`
 
 ## Screenshots
+<img src="screenshots/flutter_01.png?raw=true" width="25">
 ![](screenshots/flutter_01.png?raw=true)
 ![](screenshots/flutter_02.png?raw=true)
 ![](screenshots/flutter_03.png?raw=true)
