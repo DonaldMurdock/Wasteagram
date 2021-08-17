@@ -19,7 +19,4 @@ To run this program type the following at the command prompt:\
 `flutter run`
 
 ## Screenshots
-<img src="screenshots/flutter_01.png?raw=true" width="100">
-![](screenshots/flutter_01.png?raw=true)
-![](screenshots/flutter_02.png?raw=true)
-![](screenshots/flutter_03.png?raw=true)
+<img src="screenshots/flutter_01.png?raw=true" width="300"> <img src="screenshots/flutter_02.png?raw=true" width="300"> <img src="screenshots/flutter_03.png?raw=true" width="300">
