@@ -1,16 +1,24 @@
-# wasteagram
+## Wasteagram
+Summer 2021, Project for CS492 - Mobile Software Development\
 
-A new Flutter project.
+## About
+Wasteagram is like Instagram... for Food Waste. The app is designed for restaurant employees to track wasted food at the end of each day. A user can create a post with a photo of the wasted food and the number of wasted items. The app will report the user's current location and the current date. 
 
-## Getting Started
+Click [here](https://www.youtube.com/watch?v=zR-tzX3-tKg) to see a video demo. 
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter version 2.2.2
+- Dart version 2.13.3
+- Cloud Firestore version 2.4.0
+- Firebase Core version 1.4.0
+- Firebase Storage version 10.0.1
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+To run this program type the following at the command prompt:\
+`cd Wasteagram`\
+`flutter run`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![](screenshots/flutter_01.png?raw=true)
+![](screenshots/flutter_02.png?raw=true)
+![](screenshots/flutter_03.png?raw=true)
